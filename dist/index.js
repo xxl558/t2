@@ -238,7 +238,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }
   }), _c('text', {
     staticClass: ["greeting"]
-  }, [_vm._v("The xxll is ready!")]), _c('HelloWorld')], 1)
+  }, [_vm._v("The xxl is ready!")]), _c('HelloWorld')], 1)
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 
